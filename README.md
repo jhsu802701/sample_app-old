@@ -4,10 +4,11 @@
 https://fierce-hollows-33670.herokuapp.com/
 
 ## git remote -v
-heroku	https://git.heroku.com/fierce-hollows-33670.git (fetch)
-heroku	https://git.heroku.com/fierce-hollows-33670.git (push)
-origin	https://github.com/jhsu802701/sample_app.git (fetch)
-origin	https://github.com/jhsu802701/sample_app.git (push)
+
+    heroku	https://git.heroku.com/fierce-hollows-33670.git (fetch)
+    heroku	https://git.heroku.com/fierce-hollows-33670.git (push)
+    origin	https://github.com/jhsu802701/sample_app.git (fetch)
+    origin	https://github.com/jhsu802701/sample_app.git (push)
 
 ## Reference implementation
 
